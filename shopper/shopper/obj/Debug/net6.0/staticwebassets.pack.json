@@ -1,0 +1,273 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\shopper.bundle.scp.css",
+      "PackagePath": "staticwebassets\\shopper.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\bootstrap\\css\\bootstrap-responsive.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-responsive.css"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\bootstrap\\css\\bootstrap-responsive.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-responsive.min.css"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\bootstrap\\img\\glyphicons-halflings-white.png",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\glyphicons-halflings-white.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\bootstrap\\img\\glyphicons-halflings.png",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\glyphicons-halflings.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\css\\bootstrappage.css",
+      "PackagePath": "staticwebassets\\themes\\css\\bootstrappage.css"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\themes\\css\\flexslider.css"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\themes\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\css\\main.css",
+      "PackagePath": "staticwebassets\\themes\\css\\main.css"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\arrow-p.png",
+      "PackagePath": "staticwebassets\\themes\\images\\arrow-p.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\arrow-pleft.png",
+      "PackagePath": "staticwebassets\\themes\\images\\arrow-pleft.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\bg.png",
+      "PackagePath": "staticwebassets\\themes\\images\\bg.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\carousel\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\carousel\\banner-1.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\carousel\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\carousel\\banner-2.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\clients\\1.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\1.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\clients\\14.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\14.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\clients\\2.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\2.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\clients\\3.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\3.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\clients\\35.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\35.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\clients\\4.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\4.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware1.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware1.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware2.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware3.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware3.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware4.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware4.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware5.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware5.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware6.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware6.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\feature_img_1.png",
+      "PackagePath": "staticwebassets\\themes\\images\\feature_img_1.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\feature_img_2.png",
+      "PackagePath": "staticwebassets\\themes\\images\\feature_img_2.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\feature_img_3.png",
+      "PackagePath": "staticwebassets\\themes\\images\\feature_img_3.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\gotop.png",
+      "PackagePath": "staticwebassets\\themes\\images\\gotop.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\ladies\\1.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\1.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\ladies\\2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\2.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\ladies\\3.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\3.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\ladies\\4.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\4.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\ladies\\5.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\5.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\ladies\\6.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\6.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\ladies\\7.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\7.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\ladies\\8.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\8.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\ladies\\9.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\9.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\line_bar.png",
+      "PackagePath": "staticwebassets\\themes\\images\\line_bar.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\logo.png",
+      "PackagePath": "staticwebassets\\themes\\images\\logo.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\m1.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m1.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\m2.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m2.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\m3.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m3.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\m4.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m4.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\m5.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m5.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\m6.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m6.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\pageBanner.png",
+      "PackagePath": "staticwebassets\\themes\\images\\pageBanner.png"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\project_img2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\project_img2.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\project_img3.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\project_img3.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\project_img4.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\project_img4.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\images\\project_img6.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\project_img6.jpg"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\js\\common.js",
+      "PackagePath": "staticwebassets\\themes\\js\\common.js"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\js\\css\\style.css",
+      "PackagePath": "staticwebassets\\themes\\js\\css\\style.css"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\js\\jquery-1.7.2.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery-1.7.2.min.js"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\js\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\js\\jquery.scrolltotop.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.scrolltotop.js"
+    },
+    {
+      "Id": "G:\\pt Web\\Do an\\shopper\\shopper\\wwwroot\\themes\\js\\superfish.js",
+      "PackagePath": "staticwebassets\\themes\\js\\superfish.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.shopper.props",
+      "PackagePath": "build\\shopper.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.shopper.props",
+      "PackagePath": "buildMultiTargeting\\shopper.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.shopper.props",
+      "PackagePath": "buildTransitive\\shopper.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.shopper.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
